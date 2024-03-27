@@ -1,4 +1,4 @@
-![Screenshot (20)](https://github.com/anujchahal0001/Hotel-Booking-project-/assets/135965570/a67f0154-d8c0-4b54-b946-29352c99e695)# Hotel-Booking-project-
+# Hotel-Booking-project-
 Hotel booking project is based on formatting of around 1lakh+  customer data to increase performance, reliability and customer satisfaction on the hotel with the help of advance excel tools such as conditional formatting, line and pie chart, slicers and so on.
 
 Embark on a seamless exploration of hospitality with our intuitive users to effortlessly navigate through an array of options, tailored precisely to their preferences. Through meticulous conditional formatting, we ensure that every detail shines with clarity and distinction, enhancing comprehension and fostering informed decision-making.
@@ -9,3 +9,4 @@ Embark on a seamless exploration of hospitality with our intuitive users to effo
 ![Screenshot (19)](https://github.com/anujchahal0001/Hotel-Booking-project-/assets/135965570/7f405e06-835e-4cfd-9cac-8ee084329471)
 ![Screenshot (20)](https://github.com/anujchahal0001/Hotel-Booking-project-/assets/135965570/9a962afc-b42b-4410-bbed-ae4c32b58fab)
 ![Screenshot (21)](https://github.com/anujchahal0001/Hotel-Booking-project-/assets/135965570/4c5b0749-0d42-490f-a63c-b45e7eb5ad59)
+![Screenshot (22)](https://github.com/anujchahal0001/Hotel-Booking-project-/assets/135965570/22a02335-ce52-469b-878b-d3f582a4e16c)
